@@ -1,7 +1,13 @@
 # Pasos para instalar
 
-Seguir estos pasos:
+1. Seguir estos pasos:
 
 ```bash
-npm install
+yarn install
+```
+
+2. Y luego estos:
+
+```bash
+yarn start
 ```
